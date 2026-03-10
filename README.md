@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=-hEJskSkkaE
 
 AWS interview
 https://www.youtube.com/watch?v=CpCSDHzUHIs&list=PL3aZbxdSiCbMSI8eC-oLX1UY0mYF3-lCW
+AWS S3, IAM & CLI Explained in 1 Hour
 https://www.youtube.com/watch?v=3YkSb9oO14o&t=3441s
 
 Python interview
