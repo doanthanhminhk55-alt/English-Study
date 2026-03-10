@@ -10,6 +10,9 @@ How to Answer Job Interview Questions in English | English Speaking Practice
 https://www.youtube.com/watch?v=p3VM3T8wfkA
 https://www.youtube.com/watch?v=-hEJskSkkaE
 
+AWS interview
+https://www.youtube.com/watch?v=CpCSDHzUHIs&list=PL3aZbxdSiCbMSI8eC-oLX1UY0mYF3-lCW
+
 Python interview
 https://www.youtube.com/watch?v=-39DmZuMnd8
 [00:00:00] Let's dive in and get started. Here's
